@@ -26,3 +26,5 @@ Frontend Developer focused on creating modern, responsive, and user-friendly web
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=and-rey-sh02&style=flat-square)
