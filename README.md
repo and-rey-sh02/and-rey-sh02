@@ -1,46 +1,28 @@
 # Hi, I'm Andrey 👋
 
-Frontend Developer focused on building modern, responsive, and user-friendly web applications. I enjoy creating clean interfaces, solving real-world problems, and continuously improving my skills in modern frontend development.
+Frontend Developer focused on creating modern, responsive, and user-friendly web applications.
 
-## About Me
+## 🛠️ Tech Stack
 
-* Passionate about frontend development
-* Focused on writing clean and maintainable code
-* Interested in modern React ecosystem
-* Always learning and improving through personal projects
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,sass,redux,vite,git,github,npm,vscode,figma" />
+</p>
 
-## Tech Stack
+## 🌱 Currently Learning
 
-**Languages**
-
-* JavaScript (ES6+)
-* TypeScript
-* HTML5
-* CSS3
-* SCSS
-
-**Frameworks & Libraries**
-
-* React
-* Redux Toolkit
-* React Router
-
-**Tools**
-
-* Git & GitHub
-* Vite
-* npm
-* Figma
-* VS Code
-
-## Currently Learning
-
-* Advanced React patterns
+* Advanced React
 * Next.js
-* Testing with Jest & React Testing Library
-* Performance optimization
+* Testing (Jest & React Testing Library)
+* Performance Optimization
 
-## Contact
+## 📬 Connect with Me
 
-* LinkedIn www.linkedin.com/in/andrey-shkarupa-462676255
-* Email fannytv02@gmail.com
+<p>
+  <a href="https://www.linkedin.com/in/andrey-shkarupa-462676255" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:fannytv02@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
