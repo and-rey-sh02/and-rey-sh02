@@ -21,7 +21,7 @@ Frontend Developer focused on creating modern, responsive, and user-friendly web
   <a href="https://www.linkedin.com/in/andrey-shkarupa-462676255" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-
+  <br>
   <a href="mailto:fannytv02@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
